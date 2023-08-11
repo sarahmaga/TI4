@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4a4b361e23a6936448be02d7775f7431
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthOrb: {fileID: 9074433309428967272, guid: 9b9d2f2a4737b544ba9079551a22394a, type: 3}
+  - skillOrb: {fileID: 5456017867584744406, guid: 9c6d21b5780203f4d83d5c63a63d728e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
